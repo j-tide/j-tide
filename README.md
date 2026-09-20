@@ -12,19 +12,19 @@
 ## Writing
 
 <!-- writing:start -->
-在掘金写作 · **31 篇文章** · **23,967 次阅读**
+在掘金写作 · **32 篇文章** · **23,968 次阅读**
 
 **最新专栏** · [全部专栏 ↗](https://juejin.cn/user/958429872532632/columns)
 
-- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 1 篇 · 文章累计阅读 41
-- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 3 篇 · 文章累计阅读 127
+- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 1 篇 · 文章累计阅读 42
+- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 4 篇 · 文章累计阅读 127
 - <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 4 篇 · 文章累计阅读 141
 
 **最新文章** · [全部文章 ↗](https://juejin.cn/user/958429872532632/posts?sort=newest)
 
+- <a href="https://juejin.cn/post/7687208012304220211">拆开 DeepSeek Harness 04｜模型看到的上下文，为什么要从日志里重新生成？</a> · 阅读 0 · 点赞 0
 - <a href="https://juejin.cn/post/7687148425099771931">Agent 系统工程 04｜外部资料何时变成了指令？用权限边界约束提示注入</a> · 阅读 2 · 点赞 0
-- <a href="https://juejin.cn/post/7686848033141276681">01｜先跑起来：用大模型和一个查询工具处理文字工单</a> · 阅读 41 · 点赞 1
-- <a href="https://juejin.cn/post/7686803938520285194">拆开 DeepSeek Harness 03｜模型已经回答完了，Agent 为什么还没结束？</a> · 阅读 48 · 点赞 1
+- <a href="https://juejin.cn/post/7686848033141276681">01｜先跑起来：用大模型和一个查询工具处理文字工单</a> · 阅读 42 · 点赞 1
 
 **热门文章 · 阅读量 Top 3**
 
