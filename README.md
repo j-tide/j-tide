@@ -7,7 +7,7 @@
   </picture>
 </p>
 
-👋 你好，我是 **J.Tide**，从 Java 后端一路折腾到前端，如今在做 **AI Agent**，闲时拿相机给世界截个图。
+👋 你好，我是 **J.Tide**。Java 后端 → 前端 → **AI Agent**，技术路线一路转弯；闲时用相机记录世界。
 
 ## Writing
 
