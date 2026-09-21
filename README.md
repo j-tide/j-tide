@@ -14,25 +14,25 @@
 ## Writing
 
 <!-- writing:start -->
-在掘金写作 · **32 篇文章** · **24,012 次阅读**
+在掘金写作 · **33 篇文章** · **24,071 次阅读**
 
 **最新专栏** · [全部专栏 ↗](https://juejin.cn/user/958429872532632/columns)
 
-- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 1 篇 · 文章累计阅读 51
-- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 4 篇 · 文章累计阅读 147
-- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 4 篇 · 文章累计阅读 156
+- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 2 篇 · 文章累计阅读 73
+- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 4 篇 · 文章累计阅读 166
+- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 4 篇 · 文章累计阅读 166
 
 **最新文章** · [全部文章 ↗](https://juejin.cn/user/958429872532632/posts?sort=newest)
 
-- <a href="https://juejin.cn/post/7687208012304220211">拆开 DeepSeek Harness 04｜模型看到的上下文，为什么要从日志里重新生成？</a> · 阅读 6 · 点赞 0
-- <a href="https://juejin.cn/post/7687148425099771931">Agent 系统工程 04｜外部资料何时变成了指令？用权限边界约束提示注入</a> · 阅读 3 · 点赞 0
-- <a href="https://juejin.cn/post/7686848033141276681">01｜先跑起来：用大模型和一个查询工具处理文字工单</a> · 阅读 51 · 点赞 1
+- <a href="https://juejin.cn/post/7687513961740369929">02｜接入飞书：让 Demo 接收客户话题并回复查询结果</a> · 阅读 16 · 点赞 2
+- <a href="https://juejin.cn/post/7687208012304220211">拆开 DeepSeek Harness 04｜模型看到的上下文，为什么要从日志里重新生成？</a> · 阅读 9 · 点赞 1
+- <a href="https://juejin.cn/post/7687148425099771931">Agent 系统工程 04｜外部资料何时变成了指令？用权限边界约束提示注入</a> · 阅读 4 · 点赞 1
 
 **热门文章 · 阅读量 Top 3**
 
 - <a href="https://juejin.cn/post/7592887786967285796">拒绝做 AI 的“饲养员” ❌：前端程序员在 AI 时代的生存与进化指南 🚀</a> · 阅读 5,025 · 点赞 54
-- <a href="https://juejin.cn/post/7045273126426394637">无妨无妨，来日方长，2021年终总结</a> · 阅读 2,943 · 点赞 35
-- <a href="https://juejin.cn/post/7184615120708829221">身处井隅，心向璀璨，2022年终总结</a> · 阅读 2,795 · 点赞 44
+- <a href="https://juejin.cn/post/7045273126426394637">无妨无妨，来日方长，2021年终总结</a> · 阅读 2,945 · 点赞 35
+- <a href="https://juejin.cn/post/7184615120708829221">身处井隅，心向璀璨，2022年终总结</a> · 阅读 2,797 · 点赞 44
 <!-- writing:end -->
 
 ## Selected Projects
