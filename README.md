@@ -14,19 +14,19 @@
 ## Writing
 
 <!-- writing:start -->
-在掘金写作 · **37 篇文章** · **24,223 次阅读**
+在掘金写作 · **38 篇文章** · **24,258 次阅读**
 
 **最新专栏** · [全部专栏 ↗](https://juejin.cn/user/958429872532632/columns)
 
-- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 3 篇 · 文章累计阅读 119
-- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 6 篇 · 文章累计阅读 209
-- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 5 篇 · 文章累计阅读 216
+- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 3 篇 · 文章累计阅读 127
+- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 6 篇 · 文章累计阅读 219
+- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 6 篇 · 文章累计阅读 231
 
 **最新文章** · [全部文章 ↗](https://juejin.cn/user/958429872532632/posts?sort=newest)
 
-- <a href="https://juejin.cn/post/7687908992443236403">拆开 DeepSeek Harness 06｜点下“停止”以后，哪些事已经来不及撤回？</a> · 阅读 4 · 点赞 1
-- <a href="https://juejin.cn/post/7687818534403555378">Agent 系统工程 05｜上下文压缩以后，怎样知道关键信息有没有丢？</a> · 阅读 17 · 点赞 1
-- <a href="https://juejin.cn/post/7687812670129930250">拆开 DeepSeek Harness 05｜模型想调用工具，为什么不是直接执行？</a> · 阅读 9 · 点赞 1
+- <a href="https://juejin.cn/post/7688178277194104878">Agent 系统工程 06｜错误记忆如何越用越真？设计可追溯、可撤销的记忆系统</a> · 阅读 1 · 点赞 1
+- <a href="https://juejin.cn/post/7687908992443236403">拆开 DeepSeek Harness 06｜点下“停止”以后，哪些事已经来不及撤回？</a> · 阅读 7 · 点赞 1
+- <a href="https://juejin.cn/post/7687818534403555378">Agent 系统工程 05｜上下文压缩以后，怎样知道关键信息有没有丢？</a> · 阅读 25 · 点赞 1
 
 **热门文章 · 阅读量 Top 3**
 
