@@ -14,25 +14,25 @@
 ## Writing
 
 <!-- writing:start -->
-在掘金写作 · **36 篇文章** · **24,162 次阅读**
+在掘金写作 · **37 篇文章** · **24,223 次阅读**
 
 **最新专栏** · [全部专栏 ↗](https://juejin.cn/user/958429872532632/columns)
 
-- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 3 篇 · 文章累计阅读 99
-- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 5 篇 · 文章累计阅读 192
-- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 5 篇 · 文章累计阅读 198
+- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 3 篇 · 文章累计阅读 119
+- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 6 篇 · 文章累计阅读 209
+- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 5 篇 · 文章累计阅读 216
 
 **最新文章** · [全部文章 ↗](https://juejin.cn/user/958429872532632/posts?sort=newest)
 
-- <a href="https://juejin.cn/post/7687818534403555378">Agent 系统工程 05｜上下文压缩以后，怎样知道关键信息有没有丢？</a> · 阅读 1 · 点赞 0
-- <a href="https://juejin.cn/post/7687812670129930250">拆开 DeepSeek Harness 05｜模型想调用工具，为什么不是直接执行？</a> · 阅读 2 · 点赞 0
-- <a href="https://juejin.cn/post/7687861252215406602">03｜ 新消息来了：让 Demo 会追问、等待和继续调查</a> · 阅读 2 · 点赞 0
+- <a href="https://juejin.cn/post/7687908992443236403">拆开 DeepSeek Harness 06｜点下“停止”以后，哪些事已经来不及撤回？</a> · 阅读 4 · 点赞 1
+- <a href="https://juejin.cn/post/7687818534403555378">Agent 系统工程 05｜上下文压缩以后，怎样知道关键信息有没有丢？</a> · 阅读 17 · 点赞 1
+- <a href="https://juejin.cn/post/7687812670129930250">拆开 DeepSeek Harness 05｜模型想调用工具，为什么不是直接执行？</a> · 阅读 9 · 点赞 1
 
 **热门文章 · 阅读量 Top 3**
 
-- <a href="https://juejin.cn/post/7592887786967285796">拒绝做 AI 的“饲养员” ❌：前端程序员在 AI 时代的生存与进化指南 🚀</a> · 阅读 5,028 · 点赞 55
+- <a href="https://juejin.cn/post/7592887786967285796">拒绝做 AI 的“饲养员” ❌：前端程序员在 AI 时代的生存与进化指南 🚀</a> · 阅读 5,030 · 点赞 55
 - <a href="https://juejin.cn/post/7045273126426394637">无妨无妨，来日方长，2021年终总结</a> · 阅读 2,945 · 点赞 35
-- <a href="https://juejin.cn/post/7184615120708829221">身处井隅，心向璀璨，2022年终总结</a> · 阅读 2,798 · 点赞 44
+- <a href="https://juejin.cn/post/7184615120708829221">身处井隅，心向璀璨，2022年终总结</a> · 阅读 2,800 · 点赞 44
 <!-- writing:end -->
 
 ## Selected Projects
