@@ -14,23 +14,23 @@
 ## Writing
 
 <!-- writing:start -->
-在掘金写作 · **38 篇文章** · **24,258 次阅读**
+在掘金写作 · **39 篇文章** · **24,331 次阅读**
 
 **最新专栏** · [全部专栏 ↗](https://juejin.cn/user/958429872532632/columns)
 
-- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 3 篇 · 文章累计阅读 127
-- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 6 篇 · 文章累计阅读 219
-- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 6 篇 · 文章累计阅读 231
+- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 4 篇 · 文章累计阅读 176
+- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 6 篇 · 文章累计阅读 228
+- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 6 篇 · 文章累计阅读 244
 
 **最新文章** · [全部文章 ↗](https://juejin.cn/user/958429872532632/posts?sort=newest)
 
-- <a href="https://juejin.cn/post/7688178277194104878">Agent 系统工程 06｜错误记忆如何越用越真？设计可追溯、可撤销的记忆系统</a> · 阅读 1 · 点赞 1
-- <a href="https://juejin.cn/post/7687908992443236403">拆开 DeepSeek Harness 06｜点下“停止”以后，哪些事已经来不及撤回？</a> · 阅读 7 · 点赞 1
-- <a href="https://juejin.cn/post/7687818534403555378">Agent 系统工程 05｜上下文压缩以后，怎样知道关键信息有没有丢？</a> · 阅读 25 · 点赞 1
+- <a href="https://juejin.cn/post/7688232642778251304">04｜接上历史工单和知识库：让 Agent 有依据地查相似问题</a> · 阅读 31 · 点赞 0
+- <a href="https://juejin.cn/post/7688178277194104878">Agent 系统工程 06｜错误记忆如何越用越真？设计可追溯、可撤销的记忆系统</a> · 阅读 5 · 点赞 1
+- <a href="https://juejin.cn/post/7687908992443236403">拆开 DeepSeek Harness 06｜点下“停止”以后，哪些事已经来不及撤回？</a> · 阅读 11 · 点赞 1
 
 **热门文章 · 阅读量 Top 3**
 
-- <a href="https://juejin.cn/post/7592887786967285796">拒绝做 AI 的“饲养员” ❌：前端程序员在 AI 时代的生存与进化指南 🚀</a> · 阅读 5,030 · 点赞 55
+- <a href="https://juejin.cn/post/7592887786967285796">拒绝做 AI 的“饲养员” ❌：前端程序员在 AI 时代的生存与进化指南 🚀</a> · 阅读 5,032 · 点赞 55
 - <a href="https://juejin.cn/post/7045273126426394637">无妨无妨，来日方长，2021年终总结</a> · 阅读 2,945 · 点赞 35
 - <a href="https://juejin.cn/post/7184615120708829221">身处井隅，心向璀璨，2022年终总结</a> · 阅读 2,800 · 点赞 44
 <!-- writing:end -->
