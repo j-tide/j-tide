@@ -14,19 +14,19 @@
 ## Writing
 
 <!-- writing:start -->
-在掘金写作 · **43 篇文章** · **24,502 次阅读**
+在掘金写作 · **43 篇文章** · **24,513 次阅读**
 
 **最新专栏** · [全部专栏 ↗](https://juejin.cn/user/958429872532632/columns)
 
-- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 6 篇 · 文章累计阅读 244
-- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 7 篇 · 文章累计阅读 269
-- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 7 篇 · 文章累计阅读 294
+- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 6 篇 · 文章累计阅读 251
+- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 7 篇 · 文章累计阅读 271
+- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 7 篇 · 文章累计阅读 295
 
 **最新文章** · [全部文章 ↗](https://juejin.cn/user/958429872532632/posts?sort=newest)
 
-- <a href="https://juejin.cn/post/7689091429970755619">06｜给 Agent 阅读前后端代码的能力，沿用户操作查调用链</a> · 阅读 9 · 点赞 1
-- <a href="https://juejin.cn/post/7689004808923299880">05｜看懂图片和演示视频：把客户操作变成可回查的证据</a> · 阅读 13 · 点赞 1
-- <a href="https://juejin.cn/post/7688627788023644160">Agent 系统工程 07｜计划赶不上变化：Agent 何时该继续、重规划或求助？</a> · 阅读 34 · 点赞 1
+- <a href="https://juejin.cn/post/7689091429970755619">06｜给 Agent 阅读前后端代码的能力，沿用户操作查调用链</a> · 阅读 15 · 点赞 1
+- <a href="https://juejin.cn/post/7689004808923299880">05｜看懂图片和演示视频：把客户操作变成可回查的证据</a> · 阅读 14 · 点赞 1
+- <a href="https://juejin.cn/post/7688627788023644160">Agent 系统工程 07｜计划赶不上变化：Agent 何时该继续、重规划或求助？</a> · 阅读 35 · 点赞 1
 
 **热门文章 · 阅读量 Top 3**
 
