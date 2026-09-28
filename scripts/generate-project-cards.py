@@ -12,7 +12,7 @@ from xml.sax.saxutils import escape
 import xml.etree.ElementTree as ET
 
 PROJECTS = [
-    ("llmops", "LLM 应用与工具插件平台，持续构建中。", ["LLM 应用与工具插件平台，", "持续构建中。"], "Python · LLM"),
+    ("Forge", "让多 Agent 协作推进研发任务，每一步都有状态与证据。", ["让多 Agent 协作推进研发任务，", "每一步都有状态与证据。"], "TypeScript · AI Agent"),
     ("git-workflow", "AI 提交与代码审查，让 Git 工作流更顺畅。", ["AI 提交与代码审查，", "让 Git 工作流更顺畅。"], "TypeScript · CLI"),
     ("codex-bar", "在菜单栏掌握 Codex 任务、额度与用量。", ["在菜单栏掌握 Codex", "任务、额度与用量。"], "Swift · macOS"),
     ("zjt-mini-vue3", "手写 Vue 3 核心模块，记录源码学习与 TDD 实践。", ["手写 Vue 3 核心模块，", "记录源码学习与 TDD 实践。"], "TypeScript · Vue 3"),
