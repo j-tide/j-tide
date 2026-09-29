@@ -14,23 +14,23 @@
 ## Writing
 
 <!-- writing:start -->
-在掘金写作 · **46 篇文章** · **24,589 次阅读**
+在掘金写作 · **47 篇文章** · **24,625 次阅读**
 
 **最新专栏** · [全部专栏 ↗](https://juejin.cn/user/958429872532632/columns)
 
-- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 7 篇 · 文章累计阅读 284
-- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 8 篇 · 文章累计阅读 293
-- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 8 篇 · 文章累计阅读 309
+- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 8 篇 · 文章累计阅读 301
+- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 8 篇 · 文章累计阅读 304
+- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 8 篇 · 文章累计阅读 314
 
 **最新文章** · [全部文章 ↗](https://juejin.cn/user/958429872532632/posts?sort=newest)
 
-- <a href="https://juejin.cn/post/7690270338748710952">Agent 系统工程 08｜多个 Agent 一致同意，为什么仍然可能一起错？</a> · 阅读 4 · 点赞 1
-- <a href="https://juejin.cn/post/7690223813901008936">拆开 DeepSeek Harness 08｜把多次工具调用写成一段程序，PTC 到底改变了什么？</a> · 阅读 3 · 点赞 1
-- <a href="https://juejin.cn/post/7689431365684903976">07｜接上只读数据库和日志，让代码推断得到验证</a> · 阅读 8 · 点赞 1
+- <a href="https://juejin.cn/post/7690494760706621455">08｜值班讨论越来越长：让 Agent 记清事实、分歧和待办</a> · 阅读 15 · 点赞 1
+- <a href="https://juejin.cn/post/7690270338748710952">Agent 系统工程 08｜多个 Agent 一致同意，为什么仍然可能一起错？</a> · 阅读 6 · 点赞 1
+- <a href="https://juejin.cn/post/7690223813901008936">拆开 DeepSeek Harness 08｜把多次工具调用写成一段程序，PTC 到底改变了什么？</a> · 阅读 7 · 点赞 1
 
 **热门文章 · 阅读量 Top 3**
 
-- <a href="https://juejin.cn/post/7592887786967285796">拒绝做 AI 的“饲养员” ❌：前端程序员在 AI 时代的生存与进化指南 🚀</a> · 阅读 5,043 · 点赞 55
+- <a href="https://juejin.cn/post/7592887786967285796">拒绝做 AI 的“饲养员” ❌：前端程序员在 AI 时代的生存与进化指南 🚀</a> · 阅读 5,045 · 点赞 55
 - <a href="https://juejin.cn/post/7045273126426394637">无妨无妨，来日方长，2021年终总结</a> · 阅读 2,947 · 点赞 35
 - <a href="https://juejin.cn/post/7184615120708829221">身处井隅，心向璀璨，2022年终总结</a> · 阅读 2,801 · 点赞 44
 <!-- writing:end -->
