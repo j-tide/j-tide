@@ -14,17 +14,17 @@
 ## Writing
 
 <!-- writing:start -->
-在掘金写作 · **47 篇文章** · **24,662 次阅读**
+在掘金写作 · **47 篇文章** · **24,668 次阅读**
 
 **最新专栏** · [全部专栏 ↗](https://juejin.cn/user/958429872532632/columns)
 
-- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 8 篇 · 文章累计阅读 326
-- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 8 篇 · 文章累计阅读 309
-- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 8 篇 · 文章累计阅读 319
+- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 8 篇 · 文章累计阅读 330
+- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 8 篇 · 文章累计阅读 310
+- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 8 篇 · 文章累计阅读 320
 
 **最新文章** · [全部文章 ↗](https://juejin.cn/user/958429872532632/posts?sort=newest)
 
-- <a href="https://juejin.cn/post/7690494760706621455">08｜值班讨论越来越长：让 Agent 记清事实、分歧和待办</a> · 阅读 35 · 点赞 1
+- <a href="https://juejin.cn/post/7690494760706621455">08｜值班讨论越来越长：让 Agent 记清事实、分歧和待办</a> · 阅读 36 · 点赞 1
 - <a href="https://juejin.cn/post/7690270338748710952">Agent 系统工程 08｜多个 Agent 一致同意，为什么仍然可能一起错？</a> · 阅读 9 · 点赞 1
 - <a href="https://juejin.cn/post/7690223813901008936">拆开 DeepSeek Harness 08｜把多次工具调用写成一段程序，PTC 到底改变了什么？</a> · 阅读 10 · 点赞 1
 
