@@ -14,18 +14,18 @@
 ## Writing
 
 <!-- writing:start -->
-在掘金写作 · **51 篇文章** · **24,954 次阅读**
+在掘金写作 · **51 篇文章** · **24,964 次阅读**
 
 **最新专栏** · [全部专栏 ↗](https://juejin.cn/user/958429872532632/columns)
 
-- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 10 篇 · 文章累计阅读 405
+- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 10 篇 · 文章累计阅读 410
 - <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 9 篇 · 文章累计阅读 382
-- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 9 篇 · 文章累计阅读 412
+- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 9 篇 · 文章累计阅读 415
 
 **最新文章** · [全部文章 ↗](https://juejin.cn/user/958429872532632/posts?sort=newest)
 
-- <a href="https://juejin.cn/post/7694134378718134307">10｜工单多起来以后：补上排队、事故聚合和运行观测</a> · 阅读 2 · 点赞 0
-- <a href="https://juejin.cn/post/7692973488220258319">09｜借鉴 EvoX 蜂群协作，让多个 Agent 分头调查</a> · 阅读 14 · 点赞 1
+- <a href="https://juejin.cn/post/7694134378718134307">10｜工单多起来以后：补上排队、事故聚合和运行观测</a> · 阅读 6 · 点赞 0
+- <a href="https://juejin.cn/post/7692973488220258319">09｜借鉴 EvoX 蜂群协作，让多个 Agent 分头调查</a> · 阅读 15 · 点赞 1
 - <a href="https://juejin.cn/post/7693079499383259151">拆开 DeepSeek Harness 09｜插件卸载了，它注册过的工具、监听器和任务怎么办？</a> · 阅读 15 · 点赞 1
 
 **热门文章 · 阅读量 Top 3**
