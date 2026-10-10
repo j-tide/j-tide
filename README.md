@@ -14,19 +14,19 @@
 ## Writing
 
 <!-- writing:start -->
-在掘金写作 · **54 篇文章** · **24,979 次阅读**
+在掘金写作 · **54 篇文章** · **25,044 次阅读**
 
 **最新专栏** · [全部专栏 ↗](https://juejin.cn/user/958429872532632/columns)
 
-- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 11 篇 · 文章累计阅读 416
-- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 10 篇 · 文章累计阅读 387
-- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 10 篇 · 文章累计阅读 418
+- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 11 篇 · 文章累计阅读 446
+- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 10 篇 · 文章累计阅读 408
+- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 10 篇 · 文章累计阅读 432
 
 **最新文章** · [全部文章 ↗](https://juejin.cn/user/958429872532632/posts?sort=newest)
 
-- <a href="https://juejin.cn/post/7694500427614076968">Agent 系统工程 10｜一次长任务失败，如何定位原因并验证修复？</a> · 阅读 1 · 点赞 1
-- <a href="https://juejin.cn/post/7694502106560970792">拆开 DeepSeek Harness 10｜创造模式在“创造”什么？让 Agent 组装一种新工作方式</a> · 阅读 1 · 点赞 1
-- <a href="https://juejin.cn/post/7694502106560954408">11｜把处理记录变成经验：案例记忆与可复用排查技能</a> · 阅读 1 · 点赞 1
+- <a href="https://juejin.cn/post/7694500427614076968">Agent 系统工程 10｜一次长任务失败，如何定位原因并验证修复？</a> · 阅读 11 · 点赞 1
+- <a href="https://juejin.cn/post/7694502106560970792">拆开 DeepSeek Harness 10｜创造模式在“创造”什么？让 Agent 组装一种新工作方式</a> · 阅读 17 · 点赞 1
+- <a href="https://juejin.cn/post/7694502106560954408">11｜把处理记录变成经验：案例记忆与可复用排查技能</a> · 阅读 15 · 点赞 1
 
 **热门文章 · 阅读量 Top 3**
 
