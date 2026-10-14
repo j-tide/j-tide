@@ -14,19 +14,19 @@
 ## Writing
 
 <!-- writing:start -->
-在掘金写作 · **55 篇文章** · **25,216 次阅读**
+在掘金写作 · **55 篇文章** · **25,232 次阅读**
 
 **最新专栏** · [全部专栏 ↗](https://juejin.cn/user/958429872532632/columns)
 
-- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 12 篇 · 文章累计阅读 485
-- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 10 篇 · 文章累计阅读 492
-- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 10 篇 · 文章累计阅读 458
+- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 12 篇 · 文章累计阅读 489
+- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 10 篇 · 文章累计阅读 499
+- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 10 篇 · 文章累计阅读 462
 
 **最新文章** · [全部文章 ↗](https://juejin.cn/user/958429872532632/posts?sort=newest)
 
 - <a href="https://juejin.cn/post/7695021747829915688">12｜怎样知道 Agent 进步了：建立工单回放评测</a> · 阅读 14 · 点赞 1
 - <a href="https://juejin.cn/post/7694500427614076968">Agent 系统工程 10｜一次长任务失败，如何定位原因并验证修复？</a> · 阅读 25 · 点赞 1
-- <a href="https://juejin.cn/post/7694502106560970792">拆开 DeepSeek Harness 10｜创造模式在“创造”什么？让 Agent 组装一种新工作方式</a> · 阅读 47 · 点赞 1
+- <a href="https://juejin.cn/post/7694502106560970792">拆开 DeepSeek Harness 10｜创造模式在“创造”什么？让 Agent 组装一种新工作方式</a> · 阅读 50 · 点赞 1
 
 **热门文章 · 阅读量 Top 3**
 
