@@ -14,23 +14,23 @@
 ## Writing
 
 <!-- writing:start -->
-在掘金写作 · **56 篇文章** · **25,277 次阅读**
+在掘金写作 · **56 篇文章** · **25,288 次阅读**
 
 **最新专栏** · [全部专栏 ↗](https://juejin.cn/user/958429872532632/columns)
 
-- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 13 篇 · 文章累计阅读 507
-- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 10 篇 · 文章累计阅读 517
-- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 10 篇 · 文章累计阅读 465
+- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 13 篇 · 文章累计阅读 510
+- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 10 篇 · 文章累计阅读 519
+- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 10 篇 · 文章累计阅读 467
 
 **最新文章** · [全部文章 ↗](https://juejin.cn/user/958429872532632/posts?sort=newest)
 
-- <a href="https://juejin.cn/post/7696466781289086976">13｜根据反馈改进策略：检索、排查步骤和蜂群分工怎样更新</a> · 阅读 8 · 点赞 0
+- <a href="https://juejin.cn/post/7696466781289086976">13｜根据反馈改进策略：检索、排查步骤和蜂群分工怎样更新</a> · 阅读 10 · 点赞 0
 - <a href="https://juejin.cn/post/7695021747829915688">12｜怎样知道 Agent 进步了：建立工单回放评测</a> · 阅读 16 · 点赞 1
-- <a href="https://juejin.cn/post/7694500427614076968">Agent 系统工程 10｜一次长任务失败，如何定位原因并验证修复？</a> · 阅读 27 · 点赞 1
+- <a href="https://juejin.cn/post/7694500427614076968">Agent 系统工程 10｜一次长任务失败，如何定位原因并验证修复？</a> · 阅读 28 · 点赞 1
 
 **热门文章 · 阅读量 Top 3**
 
-- <a href="https://juejin.cn/post/7592887786967285796">拒绝做 AI 的“饲养员” ❌：前端程序员在 AI 时代的生存与进化指南 🚀</a> · 阅读 5,057 · 点赞 55
+- <a href="https://juejin.cn/post/7592887786967285796">拒绝做 AI 的“饲养员” ❌：前端程序员在 AI 时代的生存与进化指南 🚀</a> · 阅读 5,058 · 点赞 55
 - <a href="https://juejin.cn/post/7045273126426394637">无妨无妨，来日方长，2021年终总结</a> · 阅读 2,954 · 点赞 35
 - <a href="https://juejin.cn/post/7184615120708829221">身处井隅，心向璀璨，2022年终总结</a> · 阅读 2,809 · 点赞 44
 <!-- writing:end -->
