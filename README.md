@@ -14,13 +14,13 @@
 ## Writing
 
 <!-- writing:start -->
-在掘金写作 · **57 篇文章** · **25,733 次阅读**
+在掘金写作 · **57 篇文章** · **25,747 次阅读**
 
 **最新专栏** · [全部专栏 ↗](https://juejin.cn/user/958429872532632/columns)
 
-- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 14 篇 · 文章累计阅读 638
-- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 10 篇 · 文章累计阅读 663
-- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 10 篇 · 文章累计阅读 527
+- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 14 篇 · 文章累计阅读 640
+- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 10 篇 · 文章累计阅读 671
+- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 10 篇 · 文章累计阅读 530
 
 **最新文章** · [全部文章 ↗](https://juejin.cn/user/958429872532632/posts?sort=newest)
 
