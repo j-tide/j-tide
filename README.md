@@ -14,17 +14,17 @@
 ## Writing
 
 <!-- writing:start -->
-在掘金写作 · **57 篇文章** · **26,232 次阅读**
+在掘金写作 · **57 篇文章** · **26,253 次阅读**
 
 **最新专栏** · [全部专栏 ↗](https://juejin.cn/user/958429872532632/columns)
 
-- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 14 篇 · 文章累计阅读 761
-- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 10 篇 · 文章累计阅读 808
-- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 10 篇 · 文章累计阅读 592
+- <a href="https://juejin.cn/column/7686674237757063206">从工单开始，做一个 AI Agent</a> · 14 篇 · 文章累计阅读 764
+- <a href="https://juejin.cn/column/7686394441277259822">拆开 DeepSeek Harness</a> · 10 篇 · 文章累计阅读 818
+- <a href="https://juejin.cn/column/7686472562230231050">Agent 系统工程</a> · 10 篇 · 文章累计阅读 596
 
 **最新文章** · [全部文章 ↗](https://juejin.cn/user/958429872532632/posts?sort=newest)
 
-- <a href="https://juejin.cn/post/7697205989800050688">14｜把改进用起来：小范围启用、错误经验撤销与完整回放</a> · 阅读 72 · 点赞 1
+- <a href="https://juejin.cn/post/7697205989800050688">14｜把改进用起来：小范围启用、错误经验撤销与完整回放</a> · 阅读 73 · 点赞 1
 - <a href="https://juejin.cn/post/7696466781289086976">13｜根据反馈改进策略：检索、排查步骤和蜂群分工怎样更新</a> · 阅读 23 · 点赞 1
 - <a href="https://juejin.cn/post/7695021747829915688">12｜怎样知道 Agent 进步了：建立工单回放评测</a> · 阅读 30 · 点赞 2
 
